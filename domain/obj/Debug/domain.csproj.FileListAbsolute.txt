@@ -1,0 +1,5 @@
+C:\Users\tam2\Documents\Visual Studio 2015\Projects\ContactUsBackend\domain\bin\Debug\domain.dll
+C:\Users\tam2\Documents\Visual Studio 2015\Projects\ContactUsBackend\domain\bin\Debug\domain.pdb
+C:\Users\tam2\Documents\Visual Studio 2015\Projects\ContactUsBackend\domain\obj\Debug\domain.csprojResolveAssemblyReference.cache
+C:\Users\tam2\Documents\Visual Studio 2015\Projects\ContactUsBackend\domain\obj\Debug\domain.dll
+C:\Users\tam2\Documents\Visual Studio 2015\Projects\ContactUsBackend\domain\obj\Debug\domain.pdb
